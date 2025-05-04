@@ -1,2 +1,2 @@
 # GROUP-18--SHADOWS-OF-DEATH
-This repository aims to share and build solid code through a story driven game quiz group project for COMP315. This repository will help understand how far we have come from our starting point and how much more we must do to get work done.
+This repository aims to share a documented story driven game quiz group project for COMP315W12025, following a young woman who got kidnapped by an unknown perpetuator after celebrating her 21st Birthday Party with her family and friends. The player, donning the role of the family's most trusted Private Investigator is tasked to answer a series of questions, coupled with clues to identify the kidnapped victim alive before the perpetuator ends it all under a limited time frame.
